@@ -1,0 +1,28 @@
+{
+  "name": "discoteca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HerliKhoury/Discoteca.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HerliKhoury/Discoteca/issues"
+  },
+  "homepage": "https://github.com/HerliKhoury/Discoteca#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "^0.3.17"
+  }
+}
