@@ -37,4 +37,4 @@ playlists com suas músicas favoritas.
 
 ### Diagrama de Entidade de Relacionamento
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Dqnupdn"  ><a href="//imgur.com/a/Dqnupdn">Discoteca DER</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Dqnupdn"  ><a href="//imgur.com/a/Dqnupdn">Discoteca DER</a></blockquote>
